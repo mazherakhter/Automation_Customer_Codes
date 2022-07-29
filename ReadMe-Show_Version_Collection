@@ -1,0 +1,2 @@
+This Code is for version collections from multiple IOS-XE devices, it was written for a customer, when they asked for OS version receommendation for their 400+ access switches.
+I wrote this code to collect version information along with hostname and mgmt IP address, to check on which OS code they are on. Once I got the complete CSV file, I easily compare it and recommend OS.
